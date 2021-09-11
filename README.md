@@ -1,5 +1,16 @@
 # VCPlayerBot
 
+# Deploy On Railway
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/dihanofficial/VCPlayerBot&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_STRING,CHAT,LOG_GROUP,ADMINS,ADMIN_ONLY,STARTUP_STREAM,REPLY_MESSAGE)
+
+
+
+
+
+
+
+
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/subinps/VCPlayerBot?color=blue&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/subinps/VCPlayerBot)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/subinps/VCPlayerBot)
